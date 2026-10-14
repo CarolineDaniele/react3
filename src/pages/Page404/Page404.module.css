@@ -1,0 +1,9 @@
+.erro {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.erro h1 {
+  font-size: 5rem;
+  color: crimson;
+}
